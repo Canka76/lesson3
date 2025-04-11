@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;     /* Centers vertically */
+    height: 100vh;           /* Full viewport height */
+    margin: 0;               /* Remove default margin */
+  }
+  
+  h1 {
+    /* Optional styles for the h1 */
+    text-align: center;      /* Centers text horizontally inside the h1 */
+    font-size: 100px;
+    color: greenyellow;
+}
